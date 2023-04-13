@@ -1,0 +1,39 @@
+
+.cabecalho__titulo,.card,  .corte__desciçao, .cortes__btn, .rodape__p, .rodape{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecalho{
+    height: 60px;
+    /* background-color:rgb(243, 81, 81); */
+    background-color: #3769c0;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabecalho__logo{
+    height: 35px;
+    padding-left: 14px;
+}
+.cabecalho__box1{
+    margin-left: 20px;
+}
+.cabecalho__box3{
+    padding-right: 20px;
+}
+.icon-user{
+    height: 22px;
+    padding-left: 10px;
+    
+}
+.cabecalho__titulo{
+    font-weight: 400;
+    color:white;
+}
+.banner__img{
+    height: 220px;
+    width: 100%;
+    
+    
+}

@@ -1,0 +1,122 @@
+.secoes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.secoes__div{
+    /* background-color: aqua; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.secoes__slogan{
+    background-color: yellow;
+    width: 330px;
+    text-align: center;
+    padding:5px 19px;
+    margin-top: 27px;
+    color:#c42633;
+    font-family: 'Anton', sans-serif;
+    font-style: italic;
+    line-height: 20px;
+}
+.secoes__garfo{
+    padding: 30px 0;
+}
+.carnes{
+    
+    width: 300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    background-color: rgb(245, 245, 245);
+    box-shadow: 3px 3px 6px rgb(189, 189, 189);
+    margin-bottom: 55px;
+}
+
+.img-bovino{
+    height: 210px;
+    /* background-color:aqua; */
+}
+.descricao-bovino{
+    text-align: center;
+    padding:0 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #525252;
+    
+    
+}
+.preco-bovino{
+    padding:15px 0 ;
+    font-family: 'Roboto', sans-serif;
+    color: #383838;
+    font-weight: 600;
+    font-size: 20px;
+}
+.adicionar{
+    height: 45px;
+    padding-bottom: 15px;
+}
+
+@media(min-width:749px){
+    .banner{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .banner__img{
+        height: 450px;
+        width: auto;
+        margin-top: 20px;
+        
+    }
+    .slogan{
+        width: 758px;
+    }
+    .box-produtos{
+        margin-top: 40px;
+    }
+    .secoes{
+        /* background-color: aqua; */
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+
+       
+    }
+    .carnes{
+        height: 280px;
+        width:280px;
+        margin-left: 25px;
+
+    }
+    .img-bovino{
+        height: 150px;
+        
+    }
+    
+    .rodape__p{
+      /* background-color: aqua; */
+      width:380px;  
+    }
+    .sobre__descricao{
+        /* background-color: aqua; */
+        width:480px;
+
+    }
+    .endereco{
+        width:380px;
+        line-height: 20px;
+    }
+}

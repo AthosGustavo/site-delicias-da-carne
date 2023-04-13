@@ -1,0 +1,149 @@
+.rodape__encomendas{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    background-color: rgb(219, 219, 219);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rodape__p{
+    line-height: 20px;
+    text-align: center;
+    padding:0 5px;
+    padding-top:5px;
+    padding-bottom: 25px;
+    font-weight: 500;
+    color:rgb(95, 95, 95)
+    
+}
+.churrasqueira{
+    height: 60px;
+    padding:20px 0;
+}
+.rodape__contato{
+    background-color: rgb(255, 89, 89);
+    width: 100%;
+    height: auto;
+    padding-bottom: 25px;
+    text-align: center;
+
+}
+.contato__titulo{
+    font-weight: 500;
+    font-size: 18px;
+    color:rgb(221, 221, 221);
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.localizacao__img{
+    height: 40px;
+    padding-bottom: 7px;
+}
+.contato__info{
+    padding-top:8px;
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 300;
+}
+.contato__info--fone{
+    padding-top:8px;
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.contato__icon{
+    height: 10px;
+}
+.div__telefone-horario{
+    display: flex;
+    justify-content: center;
+}
+.contato__telefone{
+   margin-right: 60px;
+    height: 100px;
+    width: 137px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.contato__horarios{
+    height: 100px;
+    width: 137px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.telefone__icon{
+    height: 18px;
+    padding-top: 6px;
+    padding-right: 4px;
+    
+}
+.calendario__icon{
+    height: 20px;
+    padding-top: 8px;
+    padding-right: 4px;
+}
+.contato__email{
+    color:rgb(255, 255, 255);
+    margin-top: 20px;
+    font-weight: 300;
+}
+.email__icon{
+    height: 45px;
+    margin-top: 10px;
+}
+.sobre{
+   width:100%;
+   height: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center; 
+}
+.sobre__titulo{
+    padding-top: 25px;
+    font-family: 'Pacifico', cursive;
+    font-size: 19px;
+    letter-spacing: 2px;
+}
+.sobre__descricao{
+    text-align:center;
+    padding:18px 15px;
+    font-family: 'Pacifico', cursive;
+    color: rgb(243, 81, 81);
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+}
+.pena__icon{
+    height: 45px;
+    padding-bottom: 20px;
+}
+.localizacao{
+    background-color: #3769c0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:15px 0;
+
+}
+.endereco{
+    text-align: center;
+    color:rgb(230, 230, 230);
+    font-weight: 300;
+    padding:10px 15px;
+}
+.creditos__desenvolvedor{
+    background-color: #39372e;
+}
+.desenvolvedor{
+    text-align: center;
+    padding:10px 0;
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+}
