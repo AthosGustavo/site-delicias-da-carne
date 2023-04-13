@@ -9,6 +9,8 @@
 
 - No seu projeto inicial,o site apresentava diversos tipos de erros que atrapalhavam a experiência do usuário,a exemplo de cores desconexas e mau posicionamento dos elementos.
 
+- Na atualização foram implementadas uma combinação de cores simples, arrumação dos templates e a sua versão mobile. 
+
 - #### *Imagens do projeto antigo*
 
 
@@ -18,7 +20,7 @@
 ![delicias-da-carne-3](https://user-images.githubusercontent.com/112649935/231821188-42d30871-14ae-40a6-98c9-868a6a7ea154.png)
 
 
- - #### *Imagens do MVP*
+- #### *Imagens do MVP*
   
 ![delicias-da-carne-4](https://user-images.githubusercontent.com/112649935/231827418-66a71d47-90b7-45ee-9f6a-b7112e9cb7a0.png)
 ![delicias-da-carne-5](https://user-images.githubusercontent.com/112649935/231827441-e480f491-ead6-4f97-83ea-7408e80574ff.png)
